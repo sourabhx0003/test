@@ -2,7 +2,9 @@
 
 ### Installing the application
 
-~~~ make ~~~
+~~~ 
+make
+~~~
 
 ### Command to run the application
 
